@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://https://github.com/Matheus-Gms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Gms&show_icons=true&theme=clean&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Gms&layout=compact&langs_count=7&theme=clean"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Gms&show_icons=true&theme=clean&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Gms&layout=compact&langs_count=7&theme=clean"/>
 </div>
 
 ## Contatos
